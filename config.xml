@@ -8,7 +8,6 @@
 		CODEARMADA limited
 	</author>
 	<content src="index.html" />
-	<plugin name="com.phonegap.plugins.hydration" spec="5.0.1" />
 	<plugin name="cordova-plugin-network-information" spec="1.0.1" />
 	<plugin name="cordova-plugin-whitelist" spec="1.3.1" />
 	<access origin="*" />
