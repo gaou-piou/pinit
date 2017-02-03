@@ -19,6 +19,9 @@
 	<platform name="android">
 		<allow-intent href="market:*" />
 	</platform>
+	<platform name="windows">
+		<allow-intent href="market:*" />
+	</platform>
 	<engine name="android" spec="~6.0.0" />
 	<engine name="windows" spec="~4.4.3" />
 </widget>
